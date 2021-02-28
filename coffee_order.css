@@ -1,0 +1,42 @@
+
+body{
+		background-image:url("c3.jpg");
+		background-repeat: no-repeat;
+		
+		
+
+}
+
+
+
+div.order{
+	
+	background:linear-gradient(45deg,pink,#ffcc66,cyan) ;
+	width: 50%;
+	margin: auto;
+	margin-top:30PX;
+	border-radius:20px;
+	opacity:80%;
+	box-shadow:0 0 10px black;
+}
+h1{
+	text-align: center;
+	border-radius:20px;
+	color:green;
+	width: 50%;
+	margin: auto;
+	background:linear-gradient(45deg,pink,#ffcc66);
+	box-shadow:0 0 10px red;
+}
+body{
+	margin-top: 0px;
+}
+label{
+	text-shadow: 0 0 10px black;
+}
+input[type="submit"],input[type="reset"]{
+	background-color: green;
+	color:white;
+	font-weight: bold;
+	border-radius: 10px;
+}
